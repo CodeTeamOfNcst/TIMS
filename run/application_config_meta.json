@@ -1,0 +1,328 @@
+{
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js",
+    "dir": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js",
+    "encoding": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "allowDebugAtProd": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js",
+    "dir": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js",
+    "dynamic": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-static\\config\\config.prod.js",
+    "maxFiles": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-static\\config\\config.default.js",
+    "maxAge": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-static\\config\\config.prod.js"
+  },
+  "keys": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js",
+  "middleware": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\config\\config.default.js",
+  "session": {
+    "maxAge": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "maxAge": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-watcher\\config\\config.default.js",
+    "eventSources": {
+      "default": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+      ".jsx": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+    }
+  },
+  "reactssr": {
+    "doctype": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "layout": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "manifest": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectHeadRegex": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectBodyRegex": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectCss": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectJs": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "crossorigin": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectRes": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "fallbackToClient": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "afterRender": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "tsc": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "tsc:w": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "clean": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "build": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "build:test": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "build:prod": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "start": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "start:test": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "start:prod": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "kill-port": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "fix": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "ii": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "easy:dev": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "cross-env": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-react-ssr": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "extend": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "history": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "mockjs": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "moment": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react-dom": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react-router": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react-redux": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react-router-dom": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react-router-redux": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "react-router-config": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "redux": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@types/react": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "@types/react-dom": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "antd": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "autoprefixer": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-add-module-exports": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-import": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-syntax-dynamic-import": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-assign": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-rest-spread": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-env": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-react": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-cli": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-react": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-react": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-react": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "history": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "html-webpack-plugin": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "imagemin-webpack-plugin": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "ip": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "less": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "less-loader": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "node-sass": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "sass-loader": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "stylus": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "stylus-loader": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "ts-loader": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "tslint": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "tslint-loader": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "typescript": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "uglifyjs-webpack-plugin": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "vconsole": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "C:\\Users\\ChrisProsise\\Desktop\\高校师资信息管理系统\\TIMS\\node_modules\\egg\\config\\config.default.js"
+  }
+}
